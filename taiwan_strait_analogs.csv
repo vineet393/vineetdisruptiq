@@ -1,0 +1,6 @@
+analog_event_id,event_name,event_year,similarity_score,commodity_similarity,event_type_similarity,supply_shock_similarity,regime_similarity,duration_similarity,price_movement_data,lessons_learned,duration_days,supply_impact_pct
+EVT-015,Abqaiq Khurais Drone Attack,2019,0.925,1.0,0.9,0.95,0.85,0.8,"[0,5,12,15,13,10,7,4,2,1,0,0,0,0,0,0]",Infrastructure attacks have immediate but brief price impact,14,5.7
+EVT-014,Tanker Attacks Gulf of Oman,2019,0.877,1.0,1.0,0.75,0.7,0.85,"[0,2,5,8,12,15,14,12,8,5,3,2,1,0,0,0]",Regional tensions create sustained but moderate risk premium,45,2.0
+EVT-004,Gulf War Kuwait Invasion,1990,0.875,1.0,0.8,0.88,0.8,0.75,"[0,5,30,80,130,140,120,90,60,40,20,10,5,2,0,0]",Military capability demonstration has lasting deterrent effect,180,21.0
+EVT-006,Hurricane Katrina,2005,0.843,0.9,0.95,0.7,0.85,0.8,"[0,3,8,15,22,28,25,20,15,10,6,3,1,0,0,0]",Wildfire disruptions similar to hurricane patterns but slower recovery,42,7.5
+EVT-014,Tanker Attacks Gulf of Oman,2019,0.837,1.0,0.85,0.65,0.8,0.85,"[0,5,12,18,22,25,23,18,14,10,8,6,4,2,1,0]",Chokepoint attacks create persistent insurance and routing premiums,45,2.0

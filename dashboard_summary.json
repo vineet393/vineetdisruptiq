@@ -1,0 +1,60 @@
+{
+  "scenarios_summary": [
+    {
+      "scenario_name": "Strait of Hormuz - 14 day closure",
+      "brent_impact_pct": 78.4,
+      "new_brent_price": 189.64,
+      "regime": "crisis",
+      "duration_days": 14,
+      "supply_gap_pct": 20.0,
+      "countries_high_vulnerability": 0,
+      "sectors_high_impact": 3,
+      "economic_impact_billions": 188.2,
+      "top_analog_similarity": 0.925
+    },
+    {
+      "scenario_name": "Red Sea shipping - 60 day disruption",
+      "brent_impact_pct": 220.5,
+      "new_brent_price": 340.69,
+      "regime": "crisis",
+      "duration_days": 60,
+      "supply_gap_pct": 15.0,
+      "countries_high_vulnerability": 0,
+      "sectors_high_impact": 6,
+      "economic_impact_billions": 529.2,
+      "top_analog_similarity": 0.925
+    },
+    {
+      "scenario_name": "Strait of Hormuz - 90 day crisis",
+      "brent_impact_pct": 386.8,
+      "new_brent_price": 517.42,
+      "regime": "crisis",
+      "duration_days": 90,
+      "supply_gap_pct": 20.0,
+      "countries_high_vulnerability": 0,
+      "sectors_high_impact": 8,
+      "economic_impact_billions": 928.3,
+      "top_analog_similarity": 0.925
+    },
+    {
+      "scenario_name": "Taiwan Strait Blockade",
+      "brent_impact_pct": 95.2,
+      "new_brent_price": 207.5,
+      "regime": "crisis",
+      "duration_days": 45,
+      "supply_gap_pct": 8.0,
+      "countries_high_vulnerability": 0,
+      "sectors_high_impact": 3,
+      "economic_impact_billions": 228.5,
+      "top_analog_similarity": 0.925
+    }
+  ],
+  "current_market_state": {
+    "date": "2024-02-09",
+    "brent_price": 106.3,
+    "regime": "crisis",
+    "vix": 48.2,
+    "oecd_stocks_days": "48",
+    "spr_level": "358"
+  }
+}

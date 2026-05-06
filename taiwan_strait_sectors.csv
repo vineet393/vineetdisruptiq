@@ -1,0 +1,11 @@
+sector_id,sector_name,impact_pct,severity,fuel_cost_share,pass_through_elasticity,hedge_discount,base_margin_pct,margin_impact_pct
+S-FER,Fertilizers,50.6,critical,0.8,0.7,0.05,18.4,40.52
+S-SHP,Shipping,42.4,critical,0.55,0.9,0.1,15.2,23.33
+S-PET,Petrochemicals,31.0,high,0.45,0.85,0.15,12.8,13.93
+S-AVN,Aviation,19.0,medium,0.3,0.95,0.3,8.5,5.7
+S-MIN,Mining,14.3,medium,0.25,0.75,0.2,35.4,3.57
+S-POW,Power Generation,10.0,low,0.35,0.4,0.25,28.9,3.5
+S-AGR,Agriculture,8.4,low,0.15,0.65,0.1,25.6,1.25
+S-CON,Construction,5.5,low,0.12,0.55,0.12,16.8,0.66
+S-MAN,Manufacturing,3.7,low,0.08,0.6,0.2,22.1,0.29
+S-RET,Retail Logistics,2.0,low,0.05,0.5,0.15,6.3,0.1
