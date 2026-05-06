@@ -176,8 +176,7 @@ def main():
     # Header
     st.title("⚡ DisruptIQ - Global Disruption Analysis Platform")
     st.markdown("*Network-based analysis of supply chain disruptions and cascade effects*")
-    st.markdown("*Note: This is a demonstration/prototype using simulated data for methodology validation. 
-Not intended for actual risk management decisions.*")
+    st.markdown("*Note: This is a demonstration/prototype using simulated data for methodology validation. Not intended for actual risk management decisions.*")
     
     # Load data
     dashboard_data = load_dashboard_data()
